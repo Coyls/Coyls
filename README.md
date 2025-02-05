@@ -1,4 +1,4 @@
-# 🕯️About Me :
+## 🕯️About Me :
 
 Full-stack **TypeScript** developer, I design modern and high-performance applications with **Next.js**. Passionate about optimization and software architecture, I enjoy turning ideas into robust and scalable products.
 
