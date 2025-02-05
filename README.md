@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🕯️About Me :
 
-<!--
-**Coyls/Coyls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack **TypeScript** developer, I design modern and high-performance applications with **Next.js**. Passionate about optimization and software architecture, I enjoy turning ideas into robust and scalable products.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+## 📊 Stats GitHub
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coyls&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
